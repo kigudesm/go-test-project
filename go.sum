@@ -1,0 +1,4 @@
+github.com/coin-or/Ipopt v0.0.0-20250516155415-cc58a7072fef h1:aUwNuqrR4DTx1lPlGSsBbyMZ7wygER3U1+2UIkFKLDM=
+github.com/coin-or/Ipopt v0.0.0-20250516155415-cc58a7072fef/go.mod h1:qL7fb9DfDMuIG9z/w0bHCCFoSWCFFkMClI0AxdlhDGA=
+github.com/flywave/go-ipopt v0.0.0-20250314054555-3f8a13eeeba8 h1:UhjyLYK8FreWeNxbFdiu0LYPHOBCl8Kc3mgt9HCwkaE=
+github.com/flywave/go-ipopt v0.0.0-20250314054555-3f8a13eeeba8/go.mod h1:v27y5O2PmOJPd6DmTjh1d/AySTXO+8Hx1AzT/Gu3XkY=
